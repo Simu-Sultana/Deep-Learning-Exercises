@@ -112,9 +112,3 @@ Through these exercises, I practiced:
 ## Author
 
 Simu Sultana
-
----
-
-## License
-
-This project is for educational purposes only.
